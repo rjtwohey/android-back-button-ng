@@ -1,0 +1,7 @@
+{
+  "name": "android-back-button-ng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
